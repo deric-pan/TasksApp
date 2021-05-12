@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "b56ba22a1496401b5c344069b4404f33"
+build_time: [1605388727, 983605000]
+inputs:
+  "/Users/Deric/Desktop/projects/Tasks/Tasks/ViewController.swift": [1605388724, 112056402]
+  "/Users/Deric/Desktop/projects/Tasks/Tasks/EntryViewController.swift": [1605387252, 572280371]
+  "/Users/Deric/Desktop/projects/Tasks/Tasks/TaskViewController.swift": [1605388181, 286921039]
+  "/Users/Deric/Desktop/projects/Tasks/Tasks/AppDelegate.swift": [1605120370, 460184577]
+  "/Users/Deric/Desktop/projects/Tasks/Tasks/SceneDelegate.swift": [1605120370, 471421787]
